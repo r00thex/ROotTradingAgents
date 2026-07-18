@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/TauricResearch.png" style="width: 60%; height: auto;">
-</p>
-
 # RootTradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## News
@@ -30,9 +26,6 @@
 
 <div align="center">
 
-🚀 [RootTradingAgents](#RootTradingAgents-framework) | ⚡ [Installation & CLI](#installation-and-cli) | 🎬 [Demo](https://www.youtube.com/watch?v=90gr5lwjIho) | 📦 [Package Usage](#RootTradingAgents-package) | 🤝 [Contributing](#contributing) | 📄 [Citation](#citation)
-
-</div>
 
 ## RootTradingAgents Framework
 
@@ -84,7 +77,7 @@ Our framework decomposes complex trading tasks into specialized roles.
 
 Clone RootTradingAgents:
 ```bash
-git clone https://github.com/TauricResearch/RootTradingAgents.git
+git clone https://github.com/r00thex/ROotTradingAgents.git
 cd RootTradingAgents
 ```
 
@@ -270,8 +263,7 @@ Backtest results are not guaranteed to match any published figure. Returns depen
 
 ## Contributing
 
-Contributions are welcome: bug fixes, documentation, and feature ideas; past contributions are credited per release in [`CHANGELOG.md`](CHANGELOG.md).
-
+Contributions are welcome: bug fixes, documentation, and feature ideas; past contributions are credited per release in
 ## Citation
 
 Please reference our work if you find *RootTradingAgents* provides you with some help :)
